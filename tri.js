@@ -1,8 +1,8 @@
 const sortedStudents = ([
-    { name: "Joséphine", grades: [14, 2, 8, 11, 3] },
-    { name: "Marcus", grades: [19, 17, 13, 15, 16, 14] },
-    { name: "Mélusine", grades: [5, 11, 17, 17, 2, 12] },
-    { name: "Sophie", grades: [16, 14, 10, 11, 18, 20] },
+    { name: "Mathieu", grades: [13, 5, 14, 10, 4] },
+    { name: "Théodore", grades: [18, 12, 17, 13, 11, 9] },
+    { name: "Léa", grades: [3, 15, 13, 18, 8, 10] },
+    { name: "Cécile", grades: [7, 16, 10, 16, 15, 20] },
 ])
 
 function student() {
